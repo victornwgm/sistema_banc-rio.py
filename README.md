@@ -1,4 +1,4 @@
-# sistema_banc-rio.py
+# Sistema_banc-rio.py
 
 Este repositório contém a solução para o desafio de projeto "Criando um Sistema Bancário", parte do bootcamp da DIO. O objetivo é implementar as operações essenciais de um banco para um único usuário utilizando a linguagem Python.
 
